@@ -234,14 +234,14 @@ If you need to track the empty folders, we ned to add **.gitkeep** file in that 
 
 ## Feature Branch Creation
 
-### 1️Switch to main branch
+### 1️. Switch to main branch
 
 ```
 git switch dev_main
 git checkout dev_main
 ```
 
-### 2️Create branch
+### 2️. Create branch
 
 ```
 git checkout -b vijay_gupta_branch
@@ -297,7 +297,7 @@ Senario in which if 2 developers woek on same file and does not give conflicts
 
 ## Git Rebase
 
-⏳ While you work…
+While you work…
 
 * Your teammate pushes new code to main
 * They fix bugs
