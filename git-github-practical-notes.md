@@ -59,7 +59,7 @@ Open the Terminal: **ctril + shift + `**
 
 Everytime you work you need to run ->
 
-### 1️Check status
+### 1️. Check status
 
 ```
 git status
