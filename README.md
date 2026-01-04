@@ -1,4 +1,4 @@
-# Git & GitHub – Hands-On Practice Repository  
+# Git & GitHub - Hands-On Practice Repository  
 
 Hands-on Git & GitHub practice repository demonstrating real-world workflows like branching, rebasing, conflict resolution, stash, cherry-pick, reflog recovery, and PR-based collaboration.
 
@@ -13,15 +13,15 @@ This repository is created to **practice Git & GitHub hands-on**, exactly the wa
 
 ## What This Repository Proves:
 
-✔ I initialized Git repositories locally  
-✔ I made real commits with meaningful messages  
-✔ I worked with multiple branches  
-✔ I merged feature branches into main  
-✔ I resolved merge conflicts manually  
-✔ I rebased branches to maintain clean history  
-✔ I recovered lost work using `git reflog`  
-✔ I practiced stash, cherry-pick, reset, diff  
-✔ I pushed code to GitHub using real workflows  
+- I initialized Git repositories locally  
+- I made real commits with meaningful messages  
+- I worked with multiple branches  
+- I merged feature branches into main  
+- I resolved merge conflicts manually  
+- I rebased branches to maintain clean history  
+- I recovered lost work using `git reflog`  
+- I practiced stash, cherry-pick, reset, diff  
+- I pushed code to GitHub using real workflows  
 
 This repo exists as **evidence of practice**, not learning notes.
 
